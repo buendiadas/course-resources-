@@ -3,7 +3,7 @@
 
 import hashlib
     
-text = "I am Satoshi Nakamoto"
+text = ""
 
 # iterate nonce from 0 to 19
 for nonce in xrange(20): 
